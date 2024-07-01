@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>git的使用命令</title>
+      <link href="/2024/07/01/git/"/>
+      <url>/2024/07/01/git/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure><p>生成.git文件夹，用来存储档案变更的历史，不能删除,删除会丢失档案。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure><p>查看目录中每个档案的状态未追踪的不会被记录，要上传的必须放到暂存区。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git add  档案的名称</span><br></pre></td></tr></table></figure><p>把要上传的代码文件加入暂存区</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit -m &quot;版本历史信息”</span><br></pre></td></tr></table></figure><p>提交修改。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git log  </span><br></pre></td></tr></table></figure><p>显示先前的提交历史，按q退出。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git log --oneline</span><br></pre></td></tr></table></figure><p>   获取简化过的提交历史。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff  还原点的id -- 档案名称</span><br></pre></td></tr></table></figure><p>比较当前版本和之前的差异。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout  id号 -- 档案名称</span><br></pre></td></tr></table></figure><p>把现在的版本还原到之前的版本   这个变动需要提交</p><p>删除文件同样需要先添加，再提交。</p><p>如果有忽略的文件，新建.gitignore ，放在这个文件里。</p><p>在GitHub里的库里上传的操作</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin GitHub仓库链接 //用来连接本地和远端的存储库</span><br><span class="line">git branch -M main   //原来的主线分支改为新的分支main</span><br><span class="line">git push -u origin main   //把本地位于main的分支推送到云端</span><br></pre></td></tr></table></figure><p>每次修改后</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure><p>就能把修改推送到GitHub</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown的简单使用方法</title>
       <link href="/2024/07/01/test/"/>
       <url>/2024/07/01/test/</url>
