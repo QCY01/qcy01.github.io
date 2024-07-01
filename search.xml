@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2024/06/28/test/"/>
-      <url>/2024/06/28/test/</url>
+      <title>Markdown的简单使用方法</title>
+      <link href="/2024/07/01/test/"/>
+      <url>/2024/07/01/test/</url>
       
-        <content type="html"><![CDATA[<h1 id="关于如何使用Markdown"><a href="#关于如何使用Markdown" class="headerlink" title="关于如何使用Markdown"></a>关于如何使用Markdown</h1><p><strong>markdowm是一种语言，typera是编辑markdown的软件。</strong></p><h2 id="基本使用方法："><a href="#基本使用方法：" class="headerlink" title="基本使用方法："></a>基本使用方法：</h2><h3 id="一：文本使用"><a href="#一：文本使用" class="headerlink" title="一：文本使用"></a>一：文本使用</h3><h4 id="1-Ctrl-数字（1，2，3，4，5，6），代表由大到小六个标题等级"><a href="#1-Ctrl-数字（1，2，3，4，5，6），代表由大到小六个标题等级" class="headerlink" title="1.Ctrl+数字（1，2，3，4，5，6），代表由大到小六个标题等级"></a>1.Ctrl+数字（1，2，3，4，5，6），代表由大到小六个标题等级</h4><h1 id="第一级别"><a href="#第一级别" class="headerlink" title="第一级别"></a>第一级别</h1><h2 id="第二级别"><a href="#第二级别" class="headerlink" title="第二级别"></a>第二级别</h2><h3 id="第三级别"><a href="#第三级别" class="headerlink" title="第三级别"></a>第三级别</h3><h4 id="第四级别"><a href="#第四级别" class="headerlink" title="第四级别"></a>第四级别</h4><h5 id="第五级别"><a href="#第五级别" class="headerlink" title="第五级别"></a>第五级别</h5><h6 id="第六级别"><a href="#第六级别" class="headerlink" title="第六级别"></a>第六级别</h6><h4 id="2-分割线"><a href="#2-分割线" class="headerlink" title="2.分割线"></a>2.分割线</h4><p>三个+++，***，表示一道分割线</p><p>+++</p><h4 id="3-ctrl-u表示给文本加下划线"><a href="#3-ctrl-u表示给文本加下划线" class="headerlink" title="3.ctrl+u表示给文本加下划线"></a>3.ctrl+u表示给文本加下划线</h4><p>删除线alt+shift+5</p><p><del>删除线</del></p><p><del>删除线</del></p><h4 id="5-斜体-文本"><a href="#5-斜体-文本" class="headerlink" title="5.斜体  文本"></a>5.斜体  <em>文本</em></h4><p><em>斜体</em></p><p><em>ctrl+i</em></p><h4 id="6-粗体文本"><a href="#6-粗体文本" class="headerlink" title="6.粗体文本"></a>6.粗体文本</h4><p><strong>ctrl+B</strong></p><h4 id="7-设置高亮字体"><a href="#7-设置高亮字体" class="headerlink" title="7.设置高亮字体"></a>7.设置高亮字体</h4><p>点击文件，点击偏好设置，勾选高亮，之后重启。&#x3D; 文本 &#x3D;&#x3D;</p><p>&#x3D;&#x3D;文本&#x3D;&#x3D;</p><h4 id="8-设置字体颜色"><a href="#8-设置字体颜色" class="headerlink" title="8.设置字体颜色"></a>8.设置字体颜色</h4><p><img src="https://github.com/QCY01/webstorm/raw/main/colour.png"></p><p><font size=2 color="blue">设置字体大小为2，颜色为蓝色</font></p><h4 id="9-文本对齐"><a href="#9-文本对齐" class="headerlink" title="9.文本对齐"></a>9.文本对齐</h4><p><img src="https://github.com/QCY01/webstorm/raw/main/7ba43155-a016-4d70-ab29-eabbb7ea440d.png"></p><p align="lift">左对齐</p><p align="center">居中对齐</p><p align="right">右对齐</p><h3 id="二：插入方法"><a href="#二：插入方法" class="headerlink" title="二：插入方法"></a>二：插入方法</h3><h4 id="1-插入链接"><a href="#1-插入链接" class="headerlink" title="1.插入链接"></a>1.插入链接</h4><h5 id="（1）链接为外部地址"><a href="#（1）链接为外部地址" class="headerlink" title="（1）链接为外部地址"></a>（1）链接为外部地址</h5><p><img src="https://github.com/QCY01/webstorm/raw/main/lianjie.png"></p><p><a href="https://github.com/">链接描述比如GitHub</a></p><h5 id="（2）相对地址"><a href="#（2）相对地址" class="headerlink" title="（2）相对地址"></a>（2）相对地址</h5><p>[相对地址] (.&#x2F;地址)</p><p>.&#x2F;表示.md文件所在的地址 …&#x2F;表示.md的上一级地址</p><h4 id="2-插入图片"><a href="#2-插入图片" class="headerlink" title="2.插入图片"></a>2.插入图片</h4><p>​右键插入，填写图片地址</p><h4 id="3-插入表格"><a href="#3-插入表格" class="headerlink" title="3.插入表格"></a>3.插入表格</h4><p>​ctral+T</p><table><thead><tr><th>1</th><th>2</th><th>3</th></tr></thead><tbody><tr><td>2</td><td></td><td>3</td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h1 id="Markdown是什么"><a href="#Markdown是什么" class="headerlink" title="Markdown是什么"></a>Markdown是什么</h1><p><strong>markdowm是一种语言，typera是编辑markdown的软件。</strong></p><h2 id="基本使用方法："><a href="#基本使用方法：" class="headerlink" title="基本使用方法："></a>基本使用方法：</h2><h3 id="一：文本使用"><a href="#一：文本使用" class="headerlink" title="一：文本使用"></a>一：文本使用</h3><h4 id="1-Ctrl-数字（1，2，3，4，5，6），代表由大到小六个标题等级"><a href="#1-Ctrl-数字（1，2，3，4，5，6），代表由大到小六个标题等级" class="headerlink" title="1.Ctrl+数字（1，2，3，4，5，6），代表由大到小六个标题等级"></a>1.Ctrl+数字（1，2，3，4，5，6），代表由大到小六个标题等级</h4><h1 id="第一级别"><a href="#第一级别" class="headerlink" title="第一级别"></a>第一级别</h1><h2 id="第二级别"><a href="#第二级别" class="headerlink" title="第二级别"></a>第二级别</h2><h3 id="第三级别"><a href="#第三级别" class="headerlink" title="第三级别"></a>第三级别</h3><h4 id="第四级别"><a href="#第四级别" class="headerlink" title="第四级别"></a>第四级别</h4><h5 id="第五级别"><a href="#第五级别" class="headerlink" title="第五级别"></a>第五级别</h5><h6 id="第六级别"><a href="#第六级别" class="headerlink" title="第六级别"></a>第六级别</h6><h4 id="2-分割线"><a href="#2-分割线" class="headerlink" title="2.分割线"></a>2.分割线</h4><p>三个+++，***，表示一道分割线</p><p>+++</p><h4 id="3-ctrl-u表示给文本加下划线"><a href="#3-ctrl-u表示给文本加下划线" class="headerlink" title="3.ctrl+u表示给文本加下划线"></a>3.ctrl+u表示给文本加下划线</h4><p>删除线alt+shift+5</p><p><del>删除线</del></p><p><del>删除线</del></p><h4 id="5-斜体-文本"><a href="#5-斜体-文本" class="headerlink" title="5.斜体  文本"></a>5.斜体  <em>文本</em></h4><p><em>斜体</em></p><p><em>ctrl+i</em></p><h4 id="6-粗体文本"><a href="#6-粗体文本" class="headerlink" title="6.粗体文本"></a>6.粗体文本</h4><p><strong>ctrl+B</strong></p><h4 id="7-设置高亮字体"><a href="#7-设置高亮字体" class="headerlink" title="7.设置高亮字体"></a>7.设置高亮字体</h4><p>点击文件，点击偏好设置，勾选高亮，之后重启。&#x3D; 文本 &#x3D;&#x3D;</p><p>&#x3D;&#x3D;文本&#x3D;&#x3D;</p><h4 id="8-设置字体颜色"><a href="#8-设置字体颜色" class="headerlink" title="8.设置字体颜色"></a>8.设置字体颜色</h4><p><img src="https://github.com/QCY01/webstorm/raw/main/colour.png"></p><p><font size=2 color="blue">设置字体大小为2，颜色为蓝色</font></p><h4 id="9-文本对齐"><a href="#9-文本对齐" class="headerlink" title="9.文本对齐"></a>9.文本对齐</h4><p><img src="https://github.com/QCY01/webstorm/raw/main/7ba43155-a016-4d70-ab29-eabbb7ea440d.png"></p><p align="lift">左对齐</p><p align="center">居中对齐</p><p align="right">右对齐</p><h3 id="二：插入方法"><a href="#二：插入方法" class="headerlink" title="二：插入方法"></a>二：插入方法</h3><h4 id="1-插入链接"><a href="#1-插入链接" class="headerlink" title="1.插入链接"></a>1.插入链接</h4><h5 id="（1）链接为外部地址"><a href="#（1）链接为外部地址" class="headerlink" title="（1）链接为外部地址"></a>（1）链接为外部地址</h5><p><img src="https://github.com/QCY01/webstorm/raw/main/lianjie.png"></p><p><a href="https://github.com/">链接描述比如GitHub</a></p><h5 id="（2）相对地址"><a href="#（2）相对地址" class="headerlink" title="（2）相对地址"></a>（2）相对地址</h5><p>[相对地址] (.&#x2F;地址)</p><p>.&#x2F;表示.md文件所在的地址 …&#x2F;表示.md的上一级地址</p><h4 id="2-插入图片"><a href="#2-插入图片" class="headerlink" title="2.插入图片"></a>2.插入图片</h4><p>​右键插入，填写图片地址</p><h4 id="3-插入表格"><a href="#3-插入表格" class="headerlink" title="3.插入表格"></a>3.插入表格</h4><p>​ctral+T</p><table><thead><tr><th>1</th><th>2</th><th>3</th></tr></thead><tbody><tr><td>2</td><td></td><td>3</td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr></tbody></table>]]></content>
       
       
       
@@ -31,9 +31,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>关于</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -42,9 +42,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
